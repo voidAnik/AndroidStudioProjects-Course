@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">User Contact</string>
+    <string name="create_contact">Create Contact</string>
+    <string name="type_name_here">Type name here.</string>
+    <string name="type_phone_number_here">Type Phone number here.</string>
+    <string name="type_your_web_address_here">Type your web address here.</string>
+    <string name="type_your_home_address_here">Type your home address here</string>
+    <string name="submit">Submit</string>
+    <string name="dial">Dial</string>
+    <string name="visit_web_address">Visit web address</string>
+    <string name="find_location">Find location</string>
+    <string name="feelings">Feelings</string>
+    <string name="visit_website">Visit website</string>
+    <string name="select_how_are_you_feeling">Click to select how are you feeling!</string>
+</resources>

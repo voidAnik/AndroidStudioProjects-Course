@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity2"
+    android:orientation="vertical">
+
+    <EditText
+        android:id="@+id/et_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="40dp"
+        android:autofillHints="none"
+        android:hint="@string/type_name_here"
+        android:inputType="textPersonName"
+        />
+
+    <EditText
+        android:id="@+id/et_phone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        android:autofillHints="none"
+        android:hint="@string/type_phone_number_here"
+        android:inputType="phone"
+        android:layout_marginLeft="20dp"
+         />
+
+    <EditText
+        android:id="@+id/et_web"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        android:autofillHints="none"
+        android:layout_marginLeft="20dp"
+        android:hint="@string/type_your_web_address_here"
+        android:inputType="text"
+         />
+
+    <EditText
+        android:id="@+id/et_address"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        android:autofillHints="none"
+        android:layout_marginLeft="20dp"
+        android:hint="@string/type_your_home_address_here"
+        android:inputType="textPostalAddress"
+        />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="50dp"
+        android:gravity="center">
+        <ImageButton
+            android:id="@+id/ib_smile"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:background="#FFFFFF"
+            android:scaleType="centerInside"
+            android:src="@drawable/smile" />
+
+        <ImageButton
+            android:id="@+id/ib_sad"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_marginLeft="50dp"
+            android:background="#FFFFFF"
+            android:scaleType="centerInside"
+            android:src="@drawable/sad" />
+
+        <ImageButton
+            android:id="@+id/ib_neutral"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_marginLeft="50dp"
+            android:background="#FFFFFF"
+            android:scaleType="centerInside"
+            android:src="@drawable/neutral" />
+
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="20dp"
+        android:text="@string/select_how_are_you_feeling"
+        android:textColor="@color/colorAccent"
+        android:textSize="23sp"
+        android:textStyle="italic" />
+</LinearLayout>
