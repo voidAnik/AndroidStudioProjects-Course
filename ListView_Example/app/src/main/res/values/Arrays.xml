@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name = "pieces">
+        <item> piece - item1</item>
+        <item>piece - item2</item>
+        <item>piece - item3</item>
+    </string-array>
+    <string-array name = "descriptions">
+        <item>Description for Item 1</item>
+        <item>Description for Item 2</item>
+        <item>Description for Item 3</item>
+    </string-array>
+</resources>

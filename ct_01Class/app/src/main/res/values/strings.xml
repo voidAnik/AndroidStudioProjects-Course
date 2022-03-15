@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ct_01Class</string>
+    <string name="grade_prompt">Select a grade:</string>
+    <string-array name="grade_arrays">
+        <item>A</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B</item>
+        <item>B-</item>
+        <item>C+</item>
+        <item>C</item>
+        <item>C-</item>
+        <item>D+</item>
+        <item>D</item>
+    </string-array>
+</resources>

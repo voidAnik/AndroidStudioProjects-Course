@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#EE5975</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#EE5975</color>
+    <color name="th2">#00A2E3</color>
+    <color name="th3">#7EBC3E</color>
+    <color name="th4">#13A78D</color>
+    <color name="th5">#924C9C</color>
+    <color name="th7">#F1B20D</color>
+    <color name="th8">#F36638</color>
+    <color name="th9">#E31490</color>
+    <color name="th10">#E03257</color>
+</resources>

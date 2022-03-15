@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Class 03</string>
+    <string name="idprmt">Enter Your ID:</string>
+    <string name="submit_id">Submit</string>
+    <string name="temp_text">This is Temporary text</string>
+</resources>

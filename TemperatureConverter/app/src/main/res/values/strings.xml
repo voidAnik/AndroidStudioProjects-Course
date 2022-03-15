@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Temperature Converter</string>
+    <string name="button">Convert to Celsius(°C)</string>
+    <string name="did_you_know_you_can_determine">You can convert Temperature Fahrenheit(°F) to Celsius(°C) here.</string>
+    <string name="enter_temperature_in_f">Enter temperature in °F</string>
+    <string name="conversion_result_will_show_here">Conversion result will show here.</string>
+    <string name="todo">TODO</string>
+    <string name="history_n"><u>HISTORY</u>\n</string>
+</resources>
